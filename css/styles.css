@@ -1,6 +1,6 @@
 
 body{
-  background-color: #EAF6F6;
+  background-color: #f7f7e8;
 }
 
 hr {
@@ -8,11 +8,9 @@ hr {
   border-top: dotted;
   border-color: brown;
   border-width: 5px;
-  width: 8%;
+  width: 10%;
 }
-/* img:hover{
-  background-color: red;
-} */
+
 h2{
   color: #23120b;
 }
@@ -22,23 +20,5 @@ h3{
 
 .myprofileimage{
   border-radius: 50%;
-
-}
-.bunnaHeading{
-
-  color: white;
-  text-align: center;
-
-}
-.mybuna{
-  border-radius: 80%;
-  background-color: black;
-}
-
-.bunabody{
-  background-color: #23120b;
-}
-
-.bunaparone{
-  color: white;
+  width: auto;
 }
