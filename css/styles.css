@@ -1,0 +1,44 @@
+
+body{
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: brown;
+  border-width: 5px;
+  width: 8%;
+}
+/* img:hover{
+  background-color: red;
+} */
+h2{
+  color: #23120b;
+}
+h3{
+  color: #30475e;
+}
+
+.myprofileimage{
+  border-radius: 50%;
+
+}
+.bunnaHeading{
+
+  color: white;
+  text-align: center;
+
+}
+.mybuna{
+  border-radius: 80%;
+  background-color: black;
+}
+
+.bunabody{
+  background-color: #23120b;
+}
+
+.bunaparone{
+  color: white;
+}
